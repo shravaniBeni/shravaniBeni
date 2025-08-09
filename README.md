@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_URL" alt="Banner" width="100%" />
+  <img src="Adobe Express - PinDown.io_1754739197.gif" alt="Banner" width="100%" />
 </p>
 
 <h2 align="center">Hi 👋, I'm Shravani Beni</h2>
